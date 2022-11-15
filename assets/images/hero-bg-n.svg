@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="200" y1="400" x2="200" y2="-9.094947e-13">
+	<stop  offset="0" style="stop-color:#54B6CC"/>
+	<stop  offset="0.0256" style="stop-color:#51A3BC"/>
+	<stop  offset="0.0846" style="stop-color:#4A7D9C"/>
+	<stop  offset="0.1501" style="stop-color:#435B7F"/>
+	<stop  offset="0.2217" style="stop-color:#3E3E68"/>
+	<stop  offset="0.3014" style="stop-color:#3A2754"/>
+	<stop  offset="0.3929" style="stop-color:#371645"/>
+	<stop  offset="0.503" style="stop-color:#35093B"/>
+	<stop  offset="0.6512" style="stop-color:#330235"/>
+	<stop  offset="1" style="stop-color:#330033"/>
+</linearGradient>
+<rect style="fill:url(#SVGID_1_);" width="400" height="400"/>
+<g>
+	<path style="fill:none;stroke:#440044;stroke-width:0.5;stroke-miterlimit:2;" d="M384.5,114.5l134,15.95 M463.5,440l-98-71.5
+		L260,330l-105.5-61L20,299.5L147.5,382l-84.25,57.75L20,299.5l-118.5-53L51,191l-66.5-76.5l78.75-74.75L-34.5-31.5"/>
+	<path style="fill:none;stroke:#440044;stroke-width:0.5;stroke-miterlimit:2;" d="M-15.5,114.5l134,16L195,191l106.5,55.5
+		l-147.25,22.25l-103.5-78 M185,452.5L147.5,382"/>
+	<path style="fill:none;stroke:#440044;stroke-width:0.5;stroke-miterlimit:2;" d="M260,330l29,91l76.5-52.5l54.5-69l-118.5-53
+		L260,330l-112.5,52l7-113l40.5-78l74.5-56.5l115-20l-95.75-93.75L185,52.5L147.5-18L63.25,39.75l55.25,90.75L51,191L20,299.5
+		l-54.5,69l98,71.5"/>
+	<path style="fill:none;stroke:#440044;stroke-width:0.5;stroke-miterlimit:2;" d="M260-70l29.25,91.25L365.5-31.5 M301.5,246.5
+		l-32-112l-151-4l66.5-78 M451,191l-181.5-56.5 M195,191H51"/>
+	<path style="fill:none;stroke:#440044;stroke-width:0.5;stroke-miterlimit:2;" d="M-111,21L63.25,39.75L185,52.5l84.5,82
+		l19.25-113.75L463.5,40l-79,74.5L451,191l-149.5,55.5l64,122 M147.5-18l141.25,38.75 M289,421l-141.5-39 M20-100.5L63.5,40 M51,191
+		l-181.5-56.5"/>
+</g>
+<g>
+	<circle style="fill:#550055;" cx="384.5" cy="114.5" r="2.5"/>
+	<circle style="fill:#550055;" cx="269.5" cy="134.5" r="2.5"/>
+	<path style="fill:#550055;" d="M299,246.5c0-1.381,1.119-2.5,2.5-2.5s2.5,1.119,2.5,2.5s-1.119,2.5-2.5,2.5S299,247.881,299,246.5"
+		/>
+	<circle style="fill:#550055;" cx="365.5" cy="368.5" r="2.5"/>
+	<circle style="fill:#550055;" cx="260" cy="330" r="2.5"/>
+	<circle style="fill:#550055;" cx="154.5" cy="269" r="2.5"/>
+	<circle style="fill:#550055;" cx="147.5" cy="382" r="2.5"/>
+	<circle style="fill:#550055;" cx="20" cy="299.5" r="2.5"/>
+	<circle style="fill:#550055;" cx="51" cy="191" r="2.5"/>
+	<circle style="fill:#550055;" cx="63.5" cy="40" r="2.5"/>
+	<circle style="fill:#550055;" cx="185" cy="52.5" r="2.5"/>
+	<circle style="fill:#550055;" cx="289" cy="21" r="2.5"/>
+	<circle style="fill:#550055;" cx="118.5" cy="130.5" r="2.5"/>
+	<circle style="fill:#550055;" cx="195" cy="191" r="2.5"/>
+</g>
+</svg>
